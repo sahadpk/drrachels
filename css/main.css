@@ -3729,3 +3729,18 @@ section.error-404 .page-header > div > div:last-child { margin-left: -103px; }
     background-color: #000000 !important;
 }
  }
+ body{
+    font-family: 'Merriweather Sans', sans-serif !important;
+ }
+ a{
+    font-family: 'Merriweather Sans', sans-serif !important;
+ }
+ h3{
+    font-family: 'Merriweather Sans', sans-serif !important;
+ }
+ h2{
+    font-family: 'Merriweather Sans', sans-serif !important; 
+ }
+ h5{
+    font-family: 'Merriweather Sans', sans-serif !important;
+ }
