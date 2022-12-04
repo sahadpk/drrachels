@@ -141,7 +141,7 @@
 .ttm-bg.ttm-bgimage-yes.bg-img6 > .ttm-bg-layer { opacity: 0.3; }
 .ttm-bgcolor-grey.ttm-bg.ttm-bgimage-yes > .ttm-bg-layer { opacity: 0.9; }
 .ttm-bgcolor-darkgrey.ttm-bg.ttm-bgimage-yes > .ttm-bg-layer{ opacity: 0.60; }
-.ttm-bgcolor-dark.ttm-bg.ttm-bgimage-yes > .ttm-bg-layer{ opacity: 0.40; }
+.ttm-bgcolor-dark.ttm-bg.ttm-bgimage-yes > .ttm-bg-layer{ opacity: 0.80; }
 .ttm-bgcolor-darkgrey.ttm-bg.ttm-col-bgimage-yes.col-bg-img-one > .ttm-bg-layer{ opacity: 0.05; }
 .ttm-bgcolor-darkgrey.ttm-bg.ttm-col-bgimage-yes.col-bg-img-two > .ttm-bg-layer{ opacity: 1;}
 .ttm-bg.ttm-col-bgimage-yes.col-bg-img-five > .ttm-bg-layer { opacity: 0.36; }
