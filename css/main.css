@@ -3699,7 +3699,7 @@ section.error-404 .page-header > div > div:last-child { margin-left: -103px; }
     .site-branding img {
         object-fit: cover;
         height: 250px;
-        width: 290px !important;
+        width: 315px !important;
     }
   }
   @media screen and (max-width:580px) {
